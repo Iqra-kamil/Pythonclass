@@ -1,0 +1,8 @@
+{
+    "Order_ID":[101,102,103,104,105,106,107,108],
+    "Product":["Laptop","Phone","Headphones","Laptop",
+               "Phone","Tablet","Headphones","Tablet"],
+    "Quantity":[2,3,5,1,2,4,3,2],
+    "Price":[50000,20000,2000,50000,20000,15000,2000,15000],
+    "Month":["Jan","Jan","Feb","Feb","Mar","Mar","Apr","Apr"]
+}
